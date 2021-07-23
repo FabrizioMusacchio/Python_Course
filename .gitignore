@@ -1,4 +1,6 @@
 /.log
+/*.xls
+/*.xlsx
 /Data/Igor_1/ overview.pdf
 /Data/Igor_1/ overview thresholded.pdf
 /Data/Igor_1/ overview thresholded and spikes.pdf
@@ -39,3 +41,4 @@
 /02.5 Python pipeline for IGOR recordings.ipynb
 /02.5 Python pipeline for IGOR recordings.py
 /02.5 Python pipeline for IGOR recordings (blinded).pdf
+/my_signal_plot.pdf
