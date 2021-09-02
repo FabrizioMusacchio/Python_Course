@@ -33,6 +33,10 @@ Please visit the [course website](https://www.fabriziomusacchio.com/teaching/pyt
 ## Course announcements
 Please visit the [course website](https://www.fabriziomusacchio.com/teaching/python_course/#current-announcements) for further details.
 
+## Follow-up
+Don’t miss the [_Python Neuro-Practical_ course](https://www.fabriziomusacchio.com/teaching/python_course_neuropractical/), where you can apply your newly learned programming skills ‍🧑‍💻.
+
+
 
 
 ## License (Summary)
@@ -51,9 +55,6 @@ under the following terms:
 
 This is a human-readable summary of (and not a substitute for) the [license](https://github.com/FabrizioMusacchio/Python_Neuro_Practical/blob/master/LICENSE.md) for the material within this repository.
 
-
-## Follow-up
-Don’t miss the [_Python Neuro-Practical_ course](https://www.fabriziomusacchio.com/teaching/python_course_neuropractical/), where you can apply your newly learned programming skills ‍🧑‍💻.
 
 
 
