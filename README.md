@@ -25,6 +25,10 @@ This is the course material for the introductory course into [_Python Basics for
 * Chapter 13: [**Statistical Analysis with Pingouin**](https://github.com/FabrizioMusacchio/Python_Course/blob/master/01.13%20Statistical%20Analysis%20with%20Pingouin.ipynb)
 * [**Further Readings**](https://www.fabriziomusacchio.com/teaching/python_course/90_further_readings) (⟶ course website)
 
+<br>
+
+After the first part of this course, i.e., after Chapter 9, you can voluntarily solve the following intermediate exercises:
+* [**Voluntary homework**](https://github.com/FabrizioMusacchio/Python_Course/blob/master/Voluntary%20homework.ipynb) 
 
 
 ## Course requirements
