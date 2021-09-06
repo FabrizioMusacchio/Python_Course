@@ -38,3 +38,8 @@
 /ROI_plot_selected.png
 /violinplot.pdf
 /violinplot with data.pdf
+/data_io.py
+/my_array.csv
+/my_array.npy
+/my_array.pkl
+/my_data_file.txt
